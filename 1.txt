@@ -1,0 +1,18 @@
+mobilenet
+vision transformer
+swin transformer
+GNN(GCN)
+FNO(neural operators/neural OED)
+point net
+
+
+RNN(GRU)
+LSTM
+生成与重构猜测
+VAE（编码器和解码器）
+GAN
+YOLO
+U_net(医学影像分割)
+shufflenet
+efficient net
+PINNs
